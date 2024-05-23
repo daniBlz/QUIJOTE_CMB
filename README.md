@@ -43,4 +43,6 @@ Cada notebook contiene celdas de código que pueden ser ejecutadas secuencialmen
 
 El resto de directorios del proyecto se pueden descargar a través de la siguiente url:
 
+https://www.dropbox.com/scl/fi/bmpqle0v3e3nuip0swbgo/tfg.zip?rlkey=dfspkd5e062qp3pk6oflo63wm&st=qm765831&dl=0
+
 Para reducir el tamaño del archivo las imágenes del dataset de entrenamiento y de prueba son una muestra generada después de la realización del proyecto. 
