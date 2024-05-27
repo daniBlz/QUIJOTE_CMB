@@ -35,6 +35,9 @@ Este proyecto contiene herramientas y scripts para el análisis de mapas del Fon
 
 9. **analisis_wmap.ipynb**:
     - Notebook que realiza un análisis detallado de los datos del satélite WMAP.
+  
+10. **resultados_completo_quijote.csv**:
+    - El resultado final del análisis de QUIJOTE.
 
 ## Uso
 
