@@ -46,6 +46,6 @@ Cada notebook contiene celdas de código que pueden ser ejecutadas secuencialmen
 
 El resto de directorios del proyecto se pueden descargar a través de la siguiente url:
 
-https://www.dropbox.com/scl/fi/bmpqle0v3e3nuip0swbgo/tfg.zip?rlkey=dfspkd5e062qp3pk6oflo63wm&st=qm765831&dl=0
+https://www.dropbox.com/scl/fi/v7ns8u2zbzbjdzt1ncnf7/tfg.zip?rlkey=4dpwi708hxteu7fyfwkagk471&st=5r41puwk&dl=0
 
 
